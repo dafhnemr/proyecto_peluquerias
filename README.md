@@ -12,6 +12,5 @@ Requisitos: PostgreSQL local, DB `pelu`, usuario `postgres`.
   
 Para la documentación:
 - [ER (PDF)](docs/er_peluqueria.pdf)
-- [ER (draw.io)](docs/er_peluqueria.drawio)
 - [Diccionario de datos](docs/dictionary_peluqueria.pdf)
 
